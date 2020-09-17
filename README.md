@@ -1,6 +1,7 @@
 # 01 HTML CSS Git: Code Refactor
 
-### Deployed Link ###
+https://b-audette.github.io/Code_Refactor/
+
 ### Need to understand priority given with css if multiple element ID/Class is used ###
 ### Need to get a list of semantic tags and understand best practices for them ###
 
