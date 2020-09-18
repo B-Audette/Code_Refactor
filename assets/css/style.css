@@ -4,6 +4,15 @@
     margin: 0;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
 body {
     background-color: #d9dcd6;
 }
@@ -32,25 +41,11 @@ header nav {
     font-size: 20px;  
 }
 
-content h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 nav ul li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
     float: right;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 .hero {
@@ -62,14 +57,9 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px; 
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
+content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 content {
@@ -119,6 +109,15 @@ aside {
     max-width: 150px;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px; 
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 footer {
     padding: 30px;
     clear: both;
