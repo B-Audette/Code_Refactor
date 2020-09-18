@@ -5,7 +5,7 @@ This code was provided to me with the task to refactor it to meet accessibility 
 
 ## Tasks Completed
 
-<divs> removed and replaced with semantic HTML elements.
+`<divs>` removed and replaced with semantic HTML elements.
 Navigation in the header is now responsive.
 Alt attributes added for images.
 CSS code consolidated and re-organized.
