@@ -1,8 +1,8 @@
-Refactor Project
-```
+## Refactor Project
+
 This code was provided to me with the task to refactor it to meet accessibility standards.  
 
-```
+
 ## Tasks Completed
 
 <divs> removed and replaced with semantic HTML elements.
@@ -11,6 +11,7 @@ Alt attributes added for images.
 CSS code consolidated and re-organized.
 Comments added in HTML explaining updates made.
 
+```
 ##The User Story:
 
 AS A marketing agency
@@ -30,6 +31,6 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-
+```
 
 
