@@ -1,10 +1,10 @@
-## Refactor Project
+Refactor Project
 ```
 This code was provided to me with the task to refactor it to meet accessibility standards.  
 
-
-## Tasks Completed
 ```
+## Tasks Completed
+
 <divs> removed and replaced with semantic HTML elements.
 Navigation in the header is now responsive.
 Alt attributes added for images.
@@ -16,10 +16,8 @@ Comments added in HTML explaining updates made.
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
-```
 
 ## Acceptance Criteria
-```
 
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
